@@ -35,7 +35,7 @@ I have six first-author papers accepted at NeurIPS, ICLR, AAAI, WWW, ACL, and EM
 - *2025.11*: &nbsp; 🎉 One paper was accepted by [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/).
 - *2025.08*: &nbsp; 🎉 One paper was accepted by [EMNLP 2025](https://2025.emnlp.org/).
 
-# 📝 Conference Publications 
+# 📝 Conference Publications {#publications}
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[CCF A] NeurIPS 2026</div><img src='images/neurips2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -46,8 +46,7 @@ I have six first-author papers accepted at NeurIPS, ICLR, AAAI, WWW, ACL, and EM
 
 <strong><span class='show_paper_citations' data='kBqTzrwAAAAJ:5nxA0vEk-isC'></span></strong>
 - A state-tree reasoning task that teaches models to retrieve, update, and combine information across long conversations through reinforcement learning. StateTree-14B generalizes from 10K-context training to 128K dialogue evaluation, reaching 74.2 F1 on LoCoMo. 
-</div>
-</div>
+
 
 
 - ``NeurIPS 2026`` [StateTree: Enhancing Long-term Dialogue Reasoning via Reinforcement Learning](), **Naen Xu***, Wanqing Cui*, Yibo Hu, Shixin Hong, Hengyu An, Meiguang Jin, Junfeng Ma, Tianyu Du, **NeurIPS 2026**. [CCF A]
