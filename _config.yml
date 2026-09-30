@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tianyu Du"
-description              : "Assistant Professor at Zhejiang University. Research interests include adversarial machine learning and security of LLMs."
-repository               : "tydusky/tydusky.github.io"
+title                    : "Naen Xu"
+description              : "Master’s student at Zhejiang University. Research interests include LLM post-training, reliable agents, and AI safety."
+repository               : "bluedream02/bluedream02.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tianyu Du"
+  name             : "Naen Xu"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Zhejiang University"
   location         : "Zhejiang, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=kBqTzrwAAAAJ"
-  email            : "tydusky@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=vnh4XKEAAAAJ"
+  email            : "xunaen@zju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
