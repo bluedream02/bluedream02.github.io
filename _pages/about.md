@@ -50,7 +50,7 @@ I have **six first-author papers** accepted at NeurIPS, ICLR, AAAI, WWW, ACL, an
 </div>
 </div>
 
-- ``NeurIPS 2026`` [StateTree: Enhancing Long-term Dialogue Reasoning via Reinforcement Learning](), **Naen Xu**\*, Wanqing Cui<sup>*\*, Yibo Hu, Shixin Hong, Hengyu An, Meiguang Jin, Junfeng Ma, Tianyu Du, **NeurIPS 2026**. [CCF A]
+- ``NeurIPS 2026`` [StateTree: Enhancing Long-term Dialogue Reasoning via Reinforcement Learning](), **Naen Xu**\*, Wanqing Cui\*, Yibo Hu, Shixin Hong, Hengyu An, Meiguang Jin, Junfeng Ma, Tianyu Du, **NeurIPS 2026**. [CCF A]
 - ``ACL 2026`` [“I See What You Did There”: Can Large Vision-Language Models Understand Multimodal Puns?](https://arxiv.org/pdf/2604.05930), **Naen Xu**, Jiayi Sheng, Changjiang Li, Chunyi Zhou, Yuyuan Li, Jun Wang, Zhihui Fu, Tianyu Du, Jinbao Li, Shouling Ji, **ACL Main 2026**. [CCF A] [Code](https://github.com/bluedream02/MultiPun)
 - ``ICLR 2026`` [When Agents “Misremember” Collectively: Exploring the Mandela Effect in LLM-based Multi-Agent Systems](https://openreview.net/forum?id=yIoMqDes7O), **Naen Xu**, Hengyu An, Shuo Shi, Jinghuai Zhang, Chunyi Zhou, Changjiang Li, **Tianyu Du***, Zhihui Fu, Jun Wang, Shouling Ji, **ICLR 2026**. [CCF A] [Code](https://github.com/bluedream02/Mandela-Effect)
 - ``WWW 2026`` [FraudShield: Knowledge Graph Empowered Defense for LLMs against Fraud Attacks](https://arxiv.org/abs/2601.22485), **Naen Xu**\*, Jinghuai Zhang\*, Ping He, Chunyi Zhou, Jun Wang, Zhihui Fu, Tianyu Du, Zhaoxiang Wang, Shouling Ji, **WWW 2026**. [CCF A] [Code](https://github.com/bluedream02/FraudShield)
