@@ -47,7 +47,8 @@ I have six first-author papers accepted at NeurIPS, ICLR, AAAI, WWW, ACL, and EM
 <strong><span class='show_paper_citations' data='kBqTzrwAAAAJ:5nxA0vEk-isC'></span></strong>
 - A state-tree reasoning task that teaches models to retrieve, update, and combine information across long conversations through reinforcement learning. StateTree-14B generalizes from 10K-context training to 128K dialogue evaluation, reaching 74.2 F1 on LoCoMo. 
 
-
+</div>
+</div>
 
 - ``NeurIPS 2026`` [StateTree: Enhancing Long-term Dialogue Reasoning via Reinforcement Learning](), **Naen Xu***, Wanqing Cui*, Yibo Hu, Shixin Hong, Hengyu An, Meiguang Jin, Junfeng Ma, Tianyu Du, **NeurIPS 2026**. [CCF A]
 - ``ACL 2026`` [“I See What You Did There”: Can Large Vision-Language Models Understand Multimodal Puns?](https://arxiv.org/pdf/2604.05930), **Naen Xu**, Jiayi Sheng, Changjiang Li, Chunyi Zhou, Yuyuan Li, Jun Wang, Zhihui Fu, Tianyu Du, Jinbao Li, Shouling Ji, **ACL Main 2026**. [CCF A]
