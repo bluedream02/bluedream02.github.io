@@ -19,9 +19,9 @@ redirect_from:
 
 I am a master’s student in Software Engineering at [Zhejiang University](https://www.zju.edu.cn/english/), advised by [Dr. Tianyu Du](https://tydusky.github.io/) and [Prof. Shouling Ji](https://nesa.zju.edu.cn/webpage/crew/jsl.html). Before that, I received my bachelor’s degree in Cyberspace Security from Nanjing University of Science and Technology.
 
-My research focuses on **LLM post-training, reliable agents, and AI safety**. I am particularly interested in enhancing the reasoning and agentic capabilities of large language models through post-training and reinforcement learning, while improving their safety and reliability in real-world applications. My research spans multi-agent collaboration, multimodal understanding, and AI-generated content protection.
+My research focuses on **LLM post-training, reliable agents, and AI safety**. I am particularly interested in enhancing the reasoning and agentic capabilities of large language models through post-training and reinforcement learning, while improving their safety and reliability in real-world applications.
 
-I have six first-author papers accepted at NeurIPS, ICLR, AAAI, WWW, ACL, and EMNLP. I am currently a research intern with the livestreaming technology team at Taotian Group, where I work on LLM and agent post-training.
+I have **six first-author papers** accepted at NeurIPS, ICLR, AAAI, WWW, ACL, and EMNLP. During my master’s studies, I have also had the opportunity to collaborate with researchers from industry, including Taotian Group and the OPPO Research Institute.
 
 **Open to LLM algorithm engineering opportunities.** Feel free to [get in touch](mailto:xunaen@zju.edu.cn).
 
@@ -50,12 +50,12 @@ I have six first-author papers accepted at NeurIPS, ICLR, AAAI, WWW, ACL, and EM
 </div>
 </div>
 
-- ``NeurIPS 2026`` [StateTree: Enhancing Long-term Dialogue Reasoning via Reinforcement Learning](), **Naen Xu***, Wanqing Cui*, Yibo Hu, Shixin Hong, Hengyu An, Meiguang Jin, Junfeng Ma, Tianyu Du, **NeurIPS 2026**. [CCF A]
+- ``NeurIPS 2026`` [StateTree: Enhancing Long-term Dialogue Reasoning via Reinforcement Learning](), **Naen Xu**<sup>*</sup>, Wanqing Cui<sup>*</sup>, Yibo Hu, Shixin Hong, Hengyu An, Meiguang Jin, Junfeng Ma, Tianyu Du, **NeurIPS 2026**. [CCF A]
 - ``ACL 2026`` [“I See What You Did There”: Can Large Vision-Language Models Understand Multimodal Puns?](https://arxiv.org/pdf/2604.05930), **Naen Xu**, Jiayi Sheng, Changjiang Li, Chunyi Zhou, Yuyuan Li, Jun Wang, Zhihui Fu, Tianyu Du, Jinbao Li, Shouling Ji, **ACL Main 2026**. [CCF A]
 - ``ICLR 2026`` [When Agents “Misremember” Collectively: Exploring the Mandela Effect in LLM-based Multi-Agent Systems](https://openreview.net/forum?id=yIoMqDes7O), **Naen Xu**, Hengyu An, Shuo Shi, Jinghuai Zhang, Chunyi Zhou, Changjiang Li, **Tianyu Du***, Zhihui Fu, Jun Wang, Shouling Ji, **ICLR 2026**. [CCF A]
-- ``WWW 2026`` [FraudShield: Knowledge Graph Empowered Defense for LLMs against Fraud Attacks](https://arxiv.org/abs/2601.22485), **Naen Xu***, Jinghuai Zhang*, Ping He, Chunyi Zhou, Jun Wang, Zhihui Fu, Tianyu Du, Zhaoxiang Wang, Shouling Ji, **WWW 2026**. [CCF A]
-- ``AAAI 2026`` [Bridging the Copyright Gap: Do Large Vision-Language Models Recognize and Respect Copyrighted Content?](https://arxiv.org/abs/2512.21871), **Naen Xu**, Jinghuai Zhang, Changjiang Li, Hengyu An, Chunyi Zhou, Jun Wang, Boyu Xu, Yuyuan Li, **Tianyu Du***, Shouling Ji, **AAAI <span style="color:red">(Oral)</span> 2026**. [CCF A]
-- ``EMNLP 2025`` [VideoEraser: Concept Erasure in Text-to-Video Diffusion Models](https://arxiv.org/abs/2508.15314), **Naen Xu***, Jinghuai Zhang*, Changjiang Li, Zhi Chen, Chunyi Zhou, Qingming Li, Tianyu Du, Shouling Ji, **EMNLP (Main) 2025**. [CCF-B]
+- ``WWW 2026`` [FraudShield: Knowledge Graph Empowered Defense for LLMs against Fraud Attacks](https://arxiv.org/abs/2601.22485), **Naen Xu**<sup>*</sup>, Jinghuai Zhang<sup>*</sup>, Ping He, Chunyi Zhou, Jun Wang, Zhihui Fu, Tianyu Du, Zhaoxiang Wang, Shouling Ji, **WWW 2026**. [CCF A]
+- ``AAAI 2026`` [Bridging the Copyright Gap: Do Large Vision-Language Models Recognize and Respect Copyrighted Content?](https://arxiv.org/abs/2512.21871), **Naen Xu**<sup>*</sup>, Jinghuai Zhang<sup>*</sup>, Changjiang Li, Hengyu An, Chunyi Zhou, Jun Wang, Boyu Xu, Yuyuan Li, Tianyu Du, Shouling Ji, **AAAI <span style="color:red">(Oral)</span> 2026**. [CCF A]
+- ``EMNLP 2025`` [VideoEraser: Concept Erasure in Text-to-Video Diffusion Models](https://arxiv.org/abs/2508.15314), **Naen Xu**<sup>*</sup>, Jinghuai Zhang<sup>*</sup>, Changjiang Li, Zhi Chen, Chunyi Zhou, Qingming Li, Tianyu Du, Shouling Ji, **EMNLP (Main) 2025**. [CCF-B]
 
 # 🎓 Education
 - *2024.09 – 2027.06 (expected)*, M.E., Software Engineering, Zhejiang University, Hangzhou. 
