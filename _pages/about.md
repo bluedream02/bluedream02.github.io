@@ -23,7 +23,7 @@ My research focuses on **LLM post-training, reliable agents, and AI safety**. I 
 
 I have **six first-author papers** accepted at NeurIPS, ICLR, AAAI, WWW, ACL, and EMNLP. During my master’s studies, I have also had the opportunity to collaborate with researchers from industry, including Taotian Group and the OPPO Research Institute.
 
-**Open to LLM algorithm engineering opportunities.** Feel free to [get in touch](mailto:xunaen@zju.edu.cn).
+**I am currently open to opportunities in LLM algorithm engineering.** Feel free to [get in touch](mailto:xunaen@zju.edu.cn).
 
 
 # 🔥 News
@@ -35,7 +35,7 @@ I have **six first-author papers** accepted at NeurIPS, ICLR, AAAI, WWW, ACL, an
 - *2025.11*: &nbsp; 🎉 One paper was accepted by [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/).
 - *2025.08*: &nbsp; 🎉 One paper was accepted by [EMNLP 2025](https://2025.emnlp.org/).
 
-# 📝 Conference Publications {#publications}
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/neurips2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
