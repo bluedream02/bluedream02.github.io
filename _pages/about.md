@@ -21,7 +21,7 @@ I am a master’s student in Software Engineering at [Zhejiang University](https
 
 My research focuses on **LLM post-training, reliable agents, and AI safety**. I am particularly interested in enhancing the reasoning and agentic capabilities of large language models through post-training and reinforcement learning, while improving their safety and reliability in real-world applications.
 
-I have **six first-author papers** accepted at NeurIPS, ICLR, AAAI, WWW, ACL, and EMNLP. During my master’s studies, I have also had the opportunity to collaborate with researchers from industry, including Taotian Group and the OPPO Research Institute.
+I have **six first-author papers** accepted at NeurIPS, ICLR, AAAI, WWW, ACL, and EMNLP. During my master’s studies, I have also had the opportunity to collaborate with researchers from industry, including **Taobao & Tmall Group of Alibaba** and **OPPO Research Institute**.
 
 **I am currently open to opportunities in LLM algorithm engineering.** Feel free to [get in touch](mailto:xunaen@zju.edu.cn).
 
